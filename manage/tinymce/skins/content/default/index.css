@@ -1,0 +1,14 @@
+@font-face{
+	font-family: hyqh75;
+	src: url('./Fonts/HYQiHei-75J.ttf');
+}
+@font-face{
+	font-family: hyqh45;
+	src: url('./Fonts/HYQiHei-45J.ttf');
+}
+html,body{
+  font-family: hyqh45, hyqh75;
+}
+p{
+	margin:0;
+}
